@@ -4,3 +4,5 @@
 Ngắt sạc khi đầy + ngắt khi nhiệt quá cao + Ai Ngắt
 <br>
 Điều chỉnh qua Wifi cho phù hợp
+<br>
+11A3 PVT
